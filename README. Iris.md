@@ -25,5 +25,4 @@ The objective is to classify Iris flowers into three species:
 ## Author
 Taniya
 
-Ta
-Saksham
+
