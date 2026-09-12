@@ -22,5 +22,4 @@ The objective is to classify Iris flowers into three species:
 (Add the model you used, for example: Random Forest Classifier or Logistic Regression.)
 
 
-## Author
-Saksham
+
